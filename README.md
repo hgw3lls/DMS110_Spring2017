@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to DMS 110 - Introduction to Programming for the Digital Artw
+Spring 2017
+Department	of	Media	Study
+University	at	Buffalo,	The	State	University	of	New	York
 
-You can use the [editor on GitHub](https://github.com/hgw3lls/DMS110_Spring2017/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Instructor:	Tony	Yanick	[Link](mailto:ajyanick@buffalo.edu)
+Office	Hours:	T 1:00	- 3:00	(or	by	appointment)	@	CFA		258E
+Department		Website: www.mediastudy.buffalo.edu
+Course		Website		: [Link] https://hgw3lls.github.io/DMS110_Spring2017/
+##Classtime
+TUE	&	THU	11	am	- 12:	50	pm	/	CFA244
 
 ### Markdown
 
