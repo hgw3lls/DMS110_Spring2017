@@ -10,6 +10,13 @@ Course		Website		: [Link] https://hgw3lls.github.io/DMS110_Spring2017/
 ##Classtime
 TUE	&	THU	11	am	- 12:	50	pm	/	CFA244
 
+#Course Description
+Beginner programming course geared towards Media Study majors with little to no experience who
+want to pursue Programming Graphics, Game Design and Virtual Reality. This course introduces basic
+concepts of Computer Science with the JavaScript programming language, while incorporating a
+Media Study perspective. Non-majors welcome if space available.
+Lab fee: $125.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
